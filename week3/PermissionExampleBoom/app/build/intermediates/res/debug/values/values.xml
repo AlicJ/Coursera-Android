@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Alic/AndroidStudioProjects/PermissionExampleBoom/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Alic/AndroidStudioProjects/Coursera-Android/week3/PermissionExampleBoom/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">PermissionExampleBoom</string>
     <string name="boom_perm_string">Goes BOOM. Malicious applications can cause the dynamite to GO BOOM!</string>

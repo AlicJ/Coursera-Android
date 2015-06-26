@@ -11,6 +11,7 @@ import android.widget.Button;
 public class ActivityLoaderActivity extends Activity {
 
 	private static final String TAG = "Lab-Permissions";
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -32,7 +33,8 @@ public class ActivityLoaderActivity extends Activity {
 		
 		Log.i(TAG, "Entered startBookMarksActivity()");
 	
-		// TODO - Start the BookmarksActivity
+		// Start the BookmarksActivity
+		startActivity(new Intent(this, BookmarksActivity.class));
 
 	}
 }

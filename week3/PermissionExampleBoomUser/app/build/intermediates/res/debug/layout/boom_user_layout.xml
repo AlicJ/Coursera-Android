@@ -11,4 +11,4 @@
         android:text="@string/dangerous_action_button_string"
         android:textSize="40sp" />
 
-</RelativeLayout><!-- From: file:/Users/Alic/AndroidStudioProjects/PermissionExampleBoomUser/app/src/main/res/layout/boom_user_layout.xml -->
+</RelativeLayout><!-- From: file:/Users/Alic/AndroidStudioProjects/Coursera-Android/week3/PermissionExampleBoomUser/app/src/main/res/layout/boom_user_layout.xml -->
