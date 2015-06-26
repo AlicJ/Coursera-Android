@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Alic/AndroidStudioProjects/HelloAndroidWithLogin/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">HelloAndroidWithLogin</string>
+    <string name="enter_password_hint">Enter Password</string>
+    <string name="enter_username_hint">Enter username</string>
+    <string name="hello">Hello Android!</string>
+    <string name="login_string">Login</string>
+    <string name="password_string">Password</string>
+    <string name="username_string">UserName</string>
+</resources>
