@@ -7,4 +7,4 @@
     android:textSize="32sp" 
     android:background = "?android:attr/activatedBackgroundIndicator">
 
-</TextView><!-- From: file:/Users/Alic/AndroidStudioProjects/FragmentProgrammaticLayout/app/src/main/res/layout/titles_item.xml -->
+</TextView><!-- From: file:/Users/Alic/AndroidStudioProjects/Coursera-Android/week3/FragmentProgrammaticLayout/app/src/main/res/layout/titles_item.xml -->

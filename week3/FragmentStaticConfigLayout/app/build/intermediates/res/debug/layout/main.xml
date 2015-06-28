@@ -19,4 +19,4 @@
         android:layout_weight="5"
         class="course.examples.fragments.staticconfiglayout.QuotesFragment" />
 
-</LinearLayout><!-- From: file:/Users/Alic/AndroidStudioProjects/FragmentStaticConfigLayout/app/src/main/res/layout/main.xml -->
+</LinearLayout><!-- From: file:/Users/Alic/AndroidStudioProjects/Coursera-Android/week3/FragmentStaticConfigLayout/app/src/main/res/layout/main.xml -->
