@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Alic/AndroidStudioProjects/Coursera-Android/week4/UIRadioGroup/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">UIRadioGroup</string>
+    <string name="choice_1_string">Choice 1</string>
+    <string name="choice_2_string">Choice 2</string>
+    <string name="choice_3_string">Choice 3</string>
+    <string name="no_choice_made_string">No Choice Made</string>
+</resources>

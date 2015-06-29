@@ -4,5 +4,5 @@
     android:layout_height="fill_parent"
     android:padding="10dp"
     android:textSize="24sp"
-    android:textColor="#000">
+    android:textColor="#CCC">
 </TextView><!-- From: file:/Users/Alic/AndroidStudioProjects/Coursera-Android/week4/UIAutoComplete/app/src/main/res/layout/list_item.xml -->

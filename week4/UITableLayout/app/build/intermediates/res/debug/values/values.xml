@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Alic/AndroidStudioProjects/Coursera-Android/week4/UITableLayout/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">UITableLayout</string>
+    <string name="ctrl_e_string">Ctrl-E</string>
+    <string name="ctrl_o_string">Ctrl-O</string>
+    <string name="ctrl_s_string">Ctrl-S</string>
+    <string name="ctrl_shift_s_string">Ctrl-Shift-S</string>
+    <string name="export_string">Export…</string>
+    <string name="import_string">Import…</string>
+    <string name="open_string">Open…</string>
+    <string name="quit_string">Quit</string>
+    <string name="save_as_string">Save As…</string>
+    <string name="save_string">Save…</string>
+    <string name="x_string">X</string>
+</resources>
