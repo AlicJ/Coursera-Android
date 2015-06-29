@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!--<TextView android:text="@string/hello_world" android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content" />-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight= "3"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <!--rectangle 0-->
+            <View
+                android:id="@+id/rectView0"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/rectangle"/>
+
+            <!--rectangle 1-->
+            <View
+                android:id="@+id/rectView1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/rectangle"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight= "2"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <!--rectangle 2-->
+            <View
+                android:id="@+id/rectView2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/rectangle"/>
+
+            <!--rectangle 3-->
+            <View
+                android:id="@+id/rectView3"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/rectangle"/>
+
+            <!--rectangle 4-->
+            <View
+                android:id="@+id/rectView4"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/rectangle"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <SeekBar
+        android:id="@+id/SeekBar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingTop="12dp"
+        android:paddingLeft="32dp"
+        android:paddingRight="32dp"
+        android:layout_alignParentBottom="true"
+        android:max="100"/>
+
+</LinearLayout>

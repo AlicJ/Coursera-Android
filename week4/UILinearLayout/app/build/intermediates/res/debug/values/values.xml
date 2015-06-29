@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Alic/AndroidStudioProjects/Coursera-Android/week4/UILinearLayout/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">UILinearLayout</string>
+    <string name="blue_string">blue</string>
+    <string name="green_string">green</string>
+    <string name="red_string">red</string>
+    <string name="row_four__string">row four</string>
+    <string name="row_one_string">row one</string>
+    <string name="row_three_string">row three</string>
+    <string name="row_two_string">row two</string>
+    <string name="yellow_string">yellow</string>
+</resources>

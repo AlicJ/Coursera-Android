@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Alic/AndroidStudioProjects/Coursera-Android/week4/UIAlertDialog/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">UIAlertDialog</string>
+    <string name="shutdown_string">ShutDown</string>
+</resources>
